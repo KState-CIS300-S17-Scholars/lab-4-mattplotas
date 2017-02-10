@@ -1,0 +1,9 @@
+U:\Documents\300\Lab4\Lab4\bin\Debug\Lab4.exe.config
+U:\Documents\300\Lab4\Lab4\bin\Debug\Lab4.exe
+U:\Documents\300\Lab4\Lab4\bin\Debug\Lab4.pdb
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.exe
+U:\Documents\300\Lab4\Lab4\obj\Debug\Lab4.pdb
